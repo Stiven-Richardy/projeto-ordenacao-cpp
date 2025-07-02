@@ -1,4 +1,4 @@
-# 🔢 Projeto: Ordenação com Counting Sort e Algoritmo Comparativo
+# 🔢 Projeto: Métodos de Ordenação
 
 Este projeto foi desenvolvido como parte da disciplina de **Linguagem de Programação I**, com o objetivo de implementar o método de ordenação **Counting Sort**, prevendo a ocorrência de elementos repetidos no array. Além disso, como atividade complementar, foi implementado o algoritmo de ordenação **X**, utilizando o mesmo conjunto de dados aplicado para o Bubble Sort em aula.
 
