@@ -26,11 +26,15 @@ Este projeto foi desenvolvido como parte da disciplina de **Linguagem de Program
 
 ## 🚀 Como Executar no Falcon C++
 
-1. Abra a IDE **Falcon C++**.
-2. Vá em **File > Open Project** e selecione a pasta `projeto-ordenacao-cpp`.
-3. Certifique-se de que os arquivos `counting_sort.cpp` e `x.cpp` estão incluídos no projeto.
-4. Clique em **Compile** para compilar o projeto.
-5. Em seguida, clique em **Run** para executar o programa.
+1. Clone o repositório:
+```bash
+git clone https://github.com/Stiven-Richardy/projeto-ordenacao-cpp.git
+```
+2. Abra a IDE **Falcon C++**.
+3. Vá em **File > Open Project** e selecione a pasta `projeto-ordenacao-cpp`.
+4. Certifique-se de que os arquivos `counting_sort.cpp` e `x.cpp` estão incluídos no projeto.
+5. Clique em **Compile** para compilar o projeto.
+6. Em seguida, clique em **Run** para executar o programa.
 
 ## 👨‍🏫 Autores
 
