@@ -20,6 +20,7 @@ Este projeto foi desenvolvido como parte da disciplina de **Linguagem de Program
 ├── 📁 ordenacao/
 │   ├── 📄 counting_sort.cpp
 │   ├── 📄 x.cpp
+├── 📄 .gitignore
 └── 📄 README.md
 ```
 
